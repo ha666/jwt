@@ -1,3 +1,3 @@
 package jwt
 
-const VERSION = "2019.419.953"
+const VERSION = "2019.518.1612"

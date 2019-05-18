@@ -3,7 +3,7 @@ package jwt
 import (
 	"encoding/json"
 	"fmt"
-	"gitee.com/ha666/golibs"
+	"github.com/ha666/golibs"
 	"strings"
 	"time"
 )
